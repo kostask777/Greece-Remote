@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    printf("There are 59 Attendees right now\n");
+    printf("Hello Everyone. I hope you are doing well!\n");
+    
+    return 0;
+}
