@@ -9,6 +9,8 @@ int main() {
 
     int y = 9;
     int x = 1;
-    x+y;
+    int z = 0;
+    z = x+y; 
+    printf("print %d\n", z);
     return 0;
 }
