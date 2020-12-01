@@ -1,8 +1,14 @@
 #include <stdio.h>
 // This files prints two statements.
+
+
 int main() {
     printf("There are 59 Attendees right now\n");
     printf("Hello Everyone. I hope you are doing well!\n");
     
+
+    int y = 9;
+    int x = 1;
+    x+y;
     return 0;
 }
